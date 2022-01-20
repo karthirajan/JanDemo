@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>junit</name>
+=======
 	<name>CucumberTask</name>
+>>>>>>> be975bed91c769d9b440114d3e7203c99ae95094
 	<comment></comment>
 	<projects>
 	</projects>
